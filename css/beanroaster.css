@@ -53,6 +53,15 @@ footer {
 	text-align: center
 }
 
+#tdcomment_label{
+    width : 80%;
+}
+
+#tdimage_alignment{
+    width: 20%;
+	align: left
+}
+
 #uploadImage{
     float:left
 }
@@ -100,3 +109,8 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#Comments{
+    text-align: center;
+}
+
